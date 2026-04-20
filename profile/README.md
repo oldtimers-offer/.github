@@ -11,7 +11,7 @@ The system is built using a modular microservices architecture, including dedica
 
 This approach transforms traditional vehicle marketplaces into Web3-enabled ecosystems, opening the door for advanced use cases such as digital ownership certificates, vehicle history tracking, fractional ownership, and integration with DeFi or insurance systems.
 
-Oldtimers Offer aims to become a standardized layer for v
+Oldtimers Offer aims to become a standardized layer for vehicle identity and verification on XRPL, contributing to broader adoption of RWA tokenization.
 
 ## 🏗️ Architecture
 
