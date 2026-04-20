@@ -1,4 +1,4 @@
-## Oldtimers Offer – Real World Asset (RWA) Tokenization Platform for Classic Vehicles using XRPL NFT Vehicle Passports
+## <img width="240" height="240" alt="new-logo" src="https://github.com/user-attachments/assets/847aad82-2cca-4be1-be08-aa03dabc678f" />Oldtimers Offer – Real World Asset (RWA) Tokenization Platform for Classic Vehicles using XRPL NFT Vehicle Passports
 
 
 Oldtimers Offer is a Real World Asset (RWA) tokenization platform focused on classic vehicles, combining a high-performance Rust-based infrastructure (Actix Web backend and Yew WebAssembly frontend) with XRPL-based NFT vehicle passports.
@@ -18,3 +18,38 @@ Oldtimers Offer aims to become a standardized layer for vehicle identity and ver
 The complete system architecture, including backend, microservices, and infrastructure design, is available on Miro:
 
 👉 [View Full Architecture Diagram](https://miro.com/app/board/uXjVGgm24Iw=/?share_link_id=704637968377)
+
+## 🌐 RWA Platform Development & Key Achievements
+
+The following milestones demonstrate the progress made in building a Real World Asset (RWA) tokenization platform for classic vehicles on XRPL:
+
+### 1. Core Platform
+
+Development of a high-performance RWA marketplace for classic vehicles using Rust (Actix Web backend, Yew WebAssembly frontend), enabling seamless integration between real-world assets and blockchain infrastructure.
+
+### 2. Asset Digitization
+
+Implementation of a vehicle data ingestion and media processing pipeline, transforming physical vehicle data into structured digital assets ready for on-chain representation.
+
+### 3. XRPL NFT Core
+
+Development of an XRPL-based NFT microservice for minting “Vehicle Passport” NFTs, representing real-world vehicles as verifiable on-chain assets with dynamic metadata.
+
+### 4. Admin / Minting Flow
+
+Creation of an administrative interface (WordPress plugin) enabling controlled minting of RWA NFTs, ensuring only verified vehicles are tokenized on XRPL.
+
+### 5. Distribution
+
+Deployment of the platform across web and mobile environments (PWA/TWA), enabling broad accessibility and user adoption.
+
+### 6. Discoverability
+
+Optimization of content and listing visibility through SEO-focused CMS integration, improving discoverability of tokenized real-world assets.
+
+### 7. Infrastructure
+
+Implementation of scalable cloud storage and CDN delivery for vehicle media, ensuring efficient access to NFT-linked assets.
+
+
+
