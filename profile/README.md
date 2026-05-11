@@ -1,9 +1,9 @@
-## <img width="240" height="240" alt="new-logo" src="https://github.com/user-attachments/assets/847aad82-2cca-4be1-be08-aa03dabc678f" />Oldtimers Offer – Real World Asset (RWA) Tokenization Platform for Classic Vehicles using XRPL NFT Vehicle Passports
+## <img width="240" height="240" alt="new-logo" src="https://github.com/user-attachments/assets/847aad82-2cca-4be1-be08-aa03dabc678f" />Oldtimers Offer – Real World Asset (RWA) Tokenization Platform for Classic Vehicles using XRPL NFT Digital Vehicle Passports
 
 
-Oldtimers Offer is a Real World Asset (RWA) tokenization platform focused on classic vehicles, combining a high-performance Rust-based infrastructure (Actix Web backend and Yew WebAssembly frontend) with XRPL-based NFT vehicle passports.
+Oldtimers Offer is a Real World Asset (RWA) tokenization platform focused on classic vehicles, combining a high-performance Rust-based infrastructure (Actix Web backend and Yew WebAssembly frontend) with XRPL-based NFT digital vehicle passports.
 
-The platform bridges physical assets and blockchain by issuing verifiable, on-chain NFT representations (“vehicle passports”) for each listed vehicle. These passports contain structured metadata (vehicle type, make, model, year, provenance, and media links), enabling transparency, authenticity verification, and future ownership tracking.
+The platform bridges physical assets and blockchain by issuing verifiable, on-chain NFT representations (“digital vehicle passports”) for each listed vehicle. These passports contain structured metadata (vehicle type, make, model, year, provenance, and media links), enabling transparency, authenticity verification, and future ownership tracking.
 
 By leveraging XRPL’s low-cost, high-speed NFT infrastructure, Oldtimers Offer enables scalable tokenization of real-world vehicles without the complexity and high fees typical of other blockchains.
 
@@ -33,7 +33,7 @@ Implementation of a vehicle data ingestion and media processing pipeline, transf
 
 ### 3. XRPL NFT Core
 
-Development of an XRPL-based NFT microservice for minting “Vehicle Passport” NFTs, representing real-world vehicles as verifiable on-chain assets with dynamic metadata.
+Development of an XRPL-based NFT microservice for minting “Digital Vehicle Passport” NFTs, representing real-world vehicles as verifiable on-chain assets with dynamic metadata.
 
 ### 4. Admin / Minting Flow
 
