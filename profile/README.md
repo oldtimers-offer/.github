@@ -1,4 +1,6 @@
-## <img width="240" height="240" alt="new-logo" src="https://github.com/user-attachments/assets/847aad82-2cca-4be1-be08-aa03dabc678f" />Oldtimers Offer – Real World Asset (RWA) Tokenization Platform for Classic Vehicles using XRPL NFT Digital Vehicle Passports
+<img width="240" height="240" alt="new-logo" src="https://github.com/user-attachments/assets/847aad82-2cca-4be1-be08-aa03dabc678f" />
+
+## Oldtimers Offer – Real World Asset (RWA) Tokenization Platform for Classic Vehicles using XRPL NFT Digital Vehicle Passports
 
 
 Oldtimers Offer is a Real World Asset (RWA) tokenization platform focused on classic vehicles, combining a high-performance Rust-based infrastructure (Actix Web backend and Yew WebAssembly frontend) with XRPL-based NFT digital vehicle passports.
